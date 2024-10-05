@@ -1,0 +1,26 @@
+<annotation>
+	<folder>S2</folder>
+	<filename>20230504_162440.jpg</filename>
+	<path>D:\QR_Dataset\test\S2\20230504_162440.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>S2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>944</xmin>
+			<ymin>508</ymin>
+			<xmax>1289</xmax>
+			<ymax>853</ymax>
+		</bndbox>
+	</object>
+</annotation>

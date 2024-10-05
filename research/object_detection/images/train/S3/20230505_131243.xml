@@ -1,0 +1,26 @@
+<annotation>
+	<folder>S3</folder>
+	<filename>20230505_131243.jpg</filename>
+	<path>D:\QR_Dataset\train\S3\20230505_131243.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>591</width>
+		<height>545</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>S3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>8</ymin>
+			<xmax>581</xmax>
+			<ymax>540</ymax>
+		</bndbox>
+	</object>
+</annotation>

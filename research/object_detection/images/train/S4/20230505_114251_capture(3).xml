@@ -1,0 +1,26 @@
+<annotation>
+	<folder>S4</folder>
+	<filename>20230505_114251_capture(3).jpg</filename>
+	<path>D:\QR_Dataset\train\S4\20230505_114251_capture(3).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>S4</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>389</xmin>
+			<ymin>594</ymin>
+			<xmax>646</xmax>
+			<ymax>845</ymax>
+		</bndbox>
+	</object>
+</annotation>

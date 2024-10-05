@@ -1,0 +1,26 @@
+<annotation>
+	<folder>S1</folder>
+	<filename>20230503_100652_capture.jpg</filename>
+	<path>D:\QR_Dataset\train\S1\20230503_100652_capture.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>S1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>307</xmin>
+			<ymin>550</ymin>
+			<xmax>743</xmax>
+			<ymax>980</ymax>
+		</bndbox>
+	</object>
+</annotation>
